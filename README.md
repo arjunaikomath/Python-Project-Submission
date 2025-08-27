@@ -1,4 +1,4 @@
-#WeatherReport.py
+# WeatherReport.py
 # Indian Cities Weather Scraper 🌤️ 
 
 A Python script to fetch current weather data for major Indian cities and save it in a CSV file. The data includes temperature, weather condition, and rain/precipitation forecast.
