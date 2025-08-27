@@ -15,7 +15,6 @@ pip install requests beautifulsoup4 pandas
 ```
 ---
 
-
 # WeatherReport.py
 # Indian Cities Weather Scraper 🌤️ 
 
@@ -54,14 +53,6 @@ This Python project scrapes book information from [Books to Scrape](http://books
 - Saves the scraped data in a CSV file (`books_data.csv`).
 
 ---
-
-## Requirements
-
-- Python 3.x
-- Libraries:
-  - `requests`
-  - `beautifulsoup4`
-  - `pandas`
 
 # UserInteraction.py
 # 📚 Books Scraper & Filter
